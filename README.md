@@ -1,0 +1,2 @@
+# Pedometer
+Pebble step counter
